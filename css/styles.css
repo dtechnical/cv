@@ -1,0 +1,21 @@
+body {
+  color: whitesmoke;
+}
+
+hr {
+  width: 5%;  
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-radius: 1px;
+  border-color: grey; 
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+th{
+  color: #66BFBF;
+}
